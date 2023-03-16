@@ -881,13 +881,13 @@ footer img {
   color: #333;
   padding: 150px 0 150px;
     background: -webkit-linear-gradient(
-      rgba(255, 255, 255, 0.3),
-      rgba(255, 255, 255, 0.3)
+      rgba(255, 255, 255, 0.8),
+      rgba(255, 255, 255, 0.8)
     ),
     url(../img/01.jpg);
   background: linear-gradient(
-      rgba(255, 255, 255, 0.3),
-      rgba(255, 255, 255, 0.3)
+      rgba(255, 255, 255, 0.8),
+      rgba(255, 255, 255, 0.8)
     ),
     url(../img/01.jpg);
   background-size: cover;
@@ -900,7 +900,7 @@ footer img {
   font-size: 60px;
   text-transform: uppercase;
   font-weight: 700;
-  color: #999;
+  color: #333;
   line-height: 50px;
 }
 
